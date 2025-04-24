@@ -23,7 +23,7 @@ class HarukiDoro(Personagem):
 class Negtune(Personagem):
     def atacar(self, inimigo):
         print("Negtune invoca acima de sua cabeca a aura de um dado, querendo causar uma imprevisibilidade no combate ")
-        time.sleep(1)
+        time.sleep(4)
         chance = random.randint(1, 6)
         if chance <= 3:
             print("O ataque é eminente, Negtsune causa dano ")
