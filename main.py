@@ -1,3 +1,9 @@
+# Aluno: Matheus Ferreira Silva
+# Programação Orientada a Objeto
+# Terceiro Periodo 
+# AEMS
+
+
 from personagem import HarukiDoro, Negtune
 from batalha import iniciar_batalha
 from lore import mostrar_lore
